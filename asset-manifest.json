@@ -1,0 +1,35 @@
+{
+  "files": {
+    "static/js/0.71a7da7c.chunk.js": "/static/js/0.71a7da7c.chunk.js",
+    "static/js/0.71a7da7c.chunk.js.map": "/static/js/0.71a7da7c.chunk.js.map",
+    "static/js/1.96c8f837.chunk.js": "/static/js/1.96c8f837.chunk.js",
+    "static/js/1.96c8f837.chunk.js.map": "/static/js/1.96c8f837.chunk.js.map",
+    "main.js": "/static/js/main.afcbdb60.chunk.js",
+    "main.js.map": "/static/js/main.afcbdb60.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0be77785.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0be77785.js.map",
+    "static/css/4.786ae0dd.chunk.css": "/static/css/4.786ae0dd.chunk.css",
+    "static/js/4.8656a992.chunk.js": "/static/js/4.8656a992.chunk.js",
+    "static/js/4.8656a992.chunk.js.map": "/static/js/4.8656a992.chunk.js.map",
+    "static/js/5.71ba7ac3.chunk.js": "/static/js/5.71ba7ac3.chunk.js",
+    "static/js/5.71ba7ac3.chunk.js.map": "/static/js/5.71ba7ac3.chunk.js.map",
+    "static/js/6.23af7678.chunk.js": "/static/js/6.23af7678.chunk.js",
+    "static/js/6.23af7678.chunk.js.map": "/static/js/6.23af7678.chunk.js.map",
+    "static/js/7.c7be4b3c.chunk.js": "/static/js/7.c7be4b3c.chunk.js",
+    "static/js/7.c7be4b3c.chunk.js.map": "/static/js/7.c7be4b3c.chunk.js.map",
+    "static/js/8.bac726f2.chunk.js": "/static/js/8.bac726f2.chunk.js",
+    "static/js/8.bac726f2.chunk.js.map": "/static/js/8.bac726f2.chunk.js.map",
+    "static/js/9.401452ad.chunk.js": "/static/js/9.401452ad.chunk.js",
+    "static/js/9.401452ad.chunk.js.map": "/static/js/9.401452ad.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/4.786ae0dd.chunk.css.map": "/static/css/4.786ae0dd.chunk.css.map",
+    "static/js/1.96c8f837.chunk.js.LICENSE.txt": "/static/js/1.96c8f837.chunk.js.LICENSE.txt",
+    "static/js/4.8656a992.chunk.js.LICENSE.txt": "/static/js/4.8656a992.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0be77785.js",
+    "static/css/4.786ae0dd.chunk.css",
+    "static/js/4.8656a992.chunk.js",
+    "static/js/main.afcbdb60.chunk.js"
+  ]
+}
