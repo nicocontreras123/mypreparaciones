@@ -1,4 +1,36 @@
 {
-  "title": "Ready made sections",
-  "text": "Landy comes with a set of ready to use sections to help you easily create a landing page for your own brand, with all the content your startup desires. In order to replace any dummy elements (text, image, etc..) all you need to do is go to content folder and input your real content."
+  "title": "Servicios",
+  "text": "Estos son los servicios que ofrecemos",
+  "section": [
+    {
+      "title": "Gasfiteria",
+      "content": "Se realizan todo tipo de reparaciones, instalaciones y mantencion de gasfiteria en general.",
+      "icon": "plumbing.svg"
+    },
+    {
+      "title": "Electricidad",
+      "content": "Se realizan todo tipo de instalaciones y reparaciones electricas.",
+      "icon": "electricity.svg"
+    },
+    {
+      "title": "Pintura",
+      "content": "Servicio de pintura en interiores, pintura exterior y reparación de cielos.",
+      "icon": "painter.svg"
+    },
+    {
+      "title": "Soldadura",
+      "content": "Servicio de soldadura tanto en reparaciones o instalaciones.",
+      "icon": "welding.svg"
+    },
+    {
+      "title": "Ceramicas, vidrios y aluminios",
+      "content": "",
+      "icon": "saw.svg"
+    },
+    {
+      "title": "Transporte fletes express",
+      "content": "Servicio general de transporte de muebles, compras, etc.",
+      "icon": "delivery.svg"
+    }
+  ]
 }
