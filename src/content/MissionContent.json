@@ -5,7 +5,7 @@
     {
       "title": "Gasfiteria",
       "content": "Se realizan todo tipo de reparaciones, instalaciones y mantencion de gasfiteria en general.",
-      "icon": "plumbing.svg"
+      "icon": "technics.svg"
     },
     {
       "title": "Electricidad",
@@ -15,16 +15,16 @@
     {
       "title": "Pintura",
       "content": "Servicio de pintura en interiores, pintura exterior y reparación de cielos.",
-      "icon": "painter.svg"
+      "icon": "varnish.svg"
     },
     {
       "title": "Soldadura",
       "content": "Servicio de soldadura tanto en reparaciones o instalaciones.",
-      "icon": "welding.svg"
+      "icon": "weld.svg"
     },
     {
       "title": "Ceramicas, vidrios y aluminios",
-      "content": "",
+      "content": "Instalacion, reparación y mantención de ceramicas, vidrios y aluminios.",
       "icon": "saw.svg"
     },
     {

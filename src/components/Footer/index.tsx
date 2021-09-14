@@ -105,7 +105,7 @@ const Footer = ({ t }: any) => {
                 src="instagram2.svg"
               />
               <SocialLink
-                href="https://twitter.com/Adrinlolx"
+                href="https://wa.me/56950901991"
                 src="whatsapp2.svg"
               />
               <SocialLink
