@@ -12,6 +12,7 @@ import {
   FooterContainer,
   Language,
 } from "./styles";
+import logo from '../../logo.png'
 
 
 interface SocialLinkProps {
@@ -95,30 +96,21 @@ const Footer = ({ t }: any) => {
           >
             <NavLink to="/">
               <LogoContainer>
-                <SvgIcon
-                  src="logo.svg"
-                  aria-label="homepage"
-                  width="190px"
-                  height="64px"
-                />
+                <img src={logo} alt="logo" />
               </LogoContainer>
             </NavLink>
             <FooterContainer>
               <SocialLink
-                href="https://github.com/Adrinlol/create-react-app-adrinlol"
-                src="github.svg"
+                href=""
+                src="instagram2.svg"
               />
               <SocialLink
                 href="https://twitter.com/Adrinlolx"
-                src="twitter.svg"
+                src="whatsapp2.svg"
               />
               <SocialLink
                 href="https://www.linkedin.com/in/lasha-kakabadze/"
-                src="linkedin.svg"
-              />
-              <SocialLink
-                href="https://www.linkedin.com/in/lasha-kakabadze/"
-                src="linkedin.svg"
+                src="facebook.svg"
               />
             </FooterContainer>
           </Row>

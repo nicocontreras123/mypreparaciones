@@ -4,8 +4,7 @@ import MiddleBlockContent from "../../content/MiddleBlockContent.json";
 import AboutContent from "../../content/AboutContent.json";
 import MissionContent from "../../content/MissionContent.json";
 import ContactContent from "../../content/ContactContent.json";
-/* import { SvgIcon } from "../../common/SvgIcon";
- */
+import { SvgIcon } from "../../common/SvgIcon";
 const Contact = lazy(() => import("../../components/ContactForm"));
 const MiddleBlock = lazy(() => import("../../components/MiddleBlock"));
 const Container = lazy(() => import("../../common/Container"));
@@ -16,6 +15,13 @@ const Home = () => {
   return (
     <Container>
       <ScrollToTop />
+      <p>
+        <SvgIcon
+          src="whatsapp.svg"
+          width="60px"
+          height="60px"
+        />
+          +56 9 5090 1991 - +56 9 7660 8841</p>
       <ContentBlock
         type="right"
         title={IntroContent.title}
