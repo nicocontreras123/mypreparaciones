@@ -16,12 +16,13 @@ const Home = () => {
     <Container>
       <ScrollToTop />
       <p>
+        Contactanos en los numeros
         <SvgIcon
           src="whatsapp.svg"
           width="60px"
           height="60px"
         />
-          +56 9 5090 1991 - +56 9 7660 8841</p>
+           +56 9 5090 1991 - +56 9 7660 8841</p>
       <ContentBlock
         type="right"
         title={IntroContent.title}
