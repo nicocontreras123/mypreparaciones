@@ -14,6 +14,18 @@ interface MiddleBlockProps {
 
 const data = [
   {
+    image: "https://firebasestorage.googleapis.com/v0/b/myp-reparaciones.appspot.com/o/WhatsApp%20Image%202021-09-13%20at%206.56.09%20PM%20(2).jpeg?alt=media&token=14dba849-920e-48ef-9288-36a64195099d",
+    caption: ""
+  },
+  {
+    image: "https://firebasestorage.googleapis.com/v0/b/myp-reparaciones.appspot.com/o/WhatsApp%20Image%202021-09-13%20at%206.56.09%20PM.jpeg?alt=media&token=ab8d0692-518a-49c6-8d53-35ad0d5908c5",
+    caption: ""
+  },
+  {
+    image: "https://firebasestorage.googleapis.com/v0/b/myp-reparaciones.appspot.com/o/WhatsApp%20Image%202021-09-14%20at%201.22.28%20PM.jpeg?alt=media&token=72f03187-f731-4e12-999c-5b7f3b3f3eae",
+    caption: ""
+  },
+  {
     image: "https://firebasestorage.googleapis.com/v0/b/myp-reparaciones.appspot.com/o/image3.jpeg?alt=media&token=a3676e8e-f67a-4955-8875-e64dd6a44c7d",
     caption: ""
   },
@@ -83,8 +95,8 @@ const MiddleBlock = ({ title, content, button, t }: MiddleBlockProps) => {
           </ContentWrapper>
           <Carousel
             data={data}
-            time={2000}
-            width="850px"
+            time={5000}
+            width="750px"
             height="500px"
             captionStyle={captionStyle}
             radius="10px"
@@ -96,12 +108,12 @@ const MiddleBlock = ({ title, content, button, t }: MiddleBlockProps) => {
             pauseIconColor="white"
             pauseIconSize="40px"
             slideBackgroundColor="darkgrey"
-            slideImageFit="cover"
+            slideImageFit="contain"
             thumbnails={true}
             thumbnailWidth="100px"
             style={{
               textAlign: "center",
-              maxWidth: "850px",
+              maxWidth: "750px",
               maxHeight: "500px",
               margin: "40px auto",
             }}
