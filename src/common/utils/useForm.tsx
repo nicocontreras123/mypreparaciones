@@ -18,11 +18,13 @@ export const useForm = (validate: any) => {
     event.preventDefault();
     setErrors(validate(values));
     // Your url for API
-    const url = "";
-    if (Object.keys(values).length === 3) {
+    const url = "http://192.168.1.145:3000/sendForm";
+    if (true) {
       axios
         .post(url, {
-          ...values,
+          ...values, headers: { 
+            "Content-Type": "application/x-www-form-urlencoded"
+          }
         })
         .then(() => {
           setShouldSubmit(true);
